@@ -1,8 +1,8 @@
 # Welcome to Lefteris' GitHub Profile! 👋
 
-Hey there! I'm Leftéris Soúflas, known as [@Lefteris-Souflas](https://github.com/Lefteris-Souflas) in the GitHub community. I'm passionate about Business Analytics, Data Science, and Database Administration. Here's a bit more about me:
+Hey there! I'm Leftéris Soúflas, known as [@Lefteris-Souflas](https://github.com/Lefteris-Souflas) in the GitHub community. I'm passionate about Business Analytics, Data Science, Data Engineering and Database Administration. Here's a bit more about me:
 
-- 👀 I'm deeply interested in Business Analytics, Data Science, and Database Administration. I love diving into data, extracting insights, and building solutions.
+- 👀 I love diving into data, extracting insights, and building solutions.
   
 - 🌱 I hold a Master of Science degree in Business Analytics, which has equipped me with a strong foundation in analytical techniques and tools.
 
